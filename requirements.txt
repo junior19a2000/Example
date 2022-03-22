@@ -4,5 +4,5 @@ jupyterlab==3.2.9
 requests==2.27.1
 voila==0.3.3
 numpy==1.21.5
-matplotlib==3.5.1
+bqplot==0.12.31
 
