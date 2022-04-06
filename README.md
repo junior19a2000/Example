@@ -21,3 +21,6 @@ https://mybinder.org/v2/gh/junior19a2000/Example/HEAD?urlpath=%2Fvoila%2Frender%
 
 Seven link:
 https://mybinder.org/v2/gh/junior19a2000/Example/HEAD?urlpath=%2Fvoila%2Frender%2FAnalisis%20de%20error.ipynb
+
+Eigth link:
+https://mybinder.org/v2/gh/junior19a2000/Example/HEAD?urlpath=%2Fvoila%2Frender%2FAnalisisdeerrorV2.ipynb
